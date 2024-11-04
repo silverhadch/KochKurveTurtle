@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=CircleTurtle
+comment0.text=\n\ A\ turtle\ that\ runs\ in\ circles.\n\ \n\ @author\ Poul\ Henriksen\n\ @version\ 1.0.1\n
+comment1.params=
+comment1.target=CircleTurtle()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

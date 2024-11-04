@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=FlowerTurtle
+comment0.text=\n\ A\ turtle\ that\ draw\ something\ that\ looks\ like\ a\ flower\ (might\ require\ \n\ some\ imagination\ to\ see\ this\ though)\n\ \n\ @author\ Poul\ Henriksen\n\ @version\ 1.0.1\n
+comment1.params=
+comment1.target=FlowerTurtle()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

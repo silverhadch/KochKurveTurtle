@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SnowflakeTurtle
+comment0.text=\n\ Recursive\ snowflake\ turtle,\ using\ 6\ trees\n\ \n\ @author\ Paul\ Clark\n\ @version\ 0.2\n
+comment1.params=
+comment1.target=SnowflakeTurtle()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Overridden\ act()\ which\ draws\ 6\ trees\ at\ 60\ degree\ rotation\n
+numComments=3

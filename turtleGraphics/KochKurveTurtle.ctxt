@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=KochKurveTurtle
+comment0.text=\n\ Write\ a\ description\ of\ class\ KochKurveTurtle\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=KochKurveTurtle()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ KochKurveTurtle\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=l\u00E4nge\ tiefe
+comment3.target=void\ drawKochKurve(double,\ int)
+comment4.params=l\u00E4nge\ tiefe
+comment4.target=void\ drawKochSchneeflocke(double,\ int)
+numComments=5

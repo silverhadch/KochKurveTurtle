@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=SnowstormTurtle
+comment0.text=\n\ Turtle\ which\ generates\ a\ storm\ of\ random\ snowflakes\n\ \n\ @author\ Paul\ Clark\n\ @version\ 0.2\n
+comment1.params=
+comment1.target=void\ act()
+numComments=2

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=SpiralTurtle
+comment0.text=\n\ A\ turtle\ that\ draws\ a\ spiral.\n\ \n\ @author\ Poul\ Henriksen\n\ @version\ 1.0.1\n
+comment1.params=
+comment1.target=SpiralTurtle()
+comment2.params=newStep
+comment2.target=void\ setStep(double)
+comment2.text=\n\ The\ step\ size\ used\ to\ increase\ the\ size\ of\ the\ spiral\n
+comment3.params=newAngle
+comment3.target=void\ setAngle(double)
+comment3.text=\n\ The\ angle\ the\ turtle\ turns\ when\ changing\ direction.\n
+comment4.params=
+comment4.target=void\ act()
+numComments=5

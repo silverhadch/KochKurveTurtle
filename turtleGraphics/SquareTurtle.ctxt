@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=SquareTurtle
+comment0.text=\n\ A\ turtle\ that\ can\ draw\ a\ square\n\ \n\ @author\ Poul\ Henriksen\n\ @version\ 1.0.1\n
+comment1.params=
+comment1.target=SquareTurtle()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ goAndTurn()
+numComments=4
